@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datasets & Large Models (if added locally)
+*.h5
+*.keras
+*.pt
+*.pth
+*.zip
+*.tar.gz
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
